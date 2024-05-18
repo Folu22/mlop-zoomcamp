@@ -1,2 +1,2 @@
 # mlop-zoomcamp
-All bout mlop taught by Zoomcamp.
+All about mlop taught by Zoomcamp.
