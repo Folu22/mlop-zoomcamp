@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Accountant\mlop-zoomcamp\05-monitoring\py11
+set VIRTUAL_ENV=C:\Users\User\mlop-zoomcamp\05-monitoring\py11
 
 if not defined PROMPT set PROMPT=$P$G
 
